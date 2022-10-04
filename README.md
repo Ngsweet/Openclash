@@ -1,0 +1,2 @@
+# Openclash
+clash规则
