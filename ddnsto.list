@@ -1,6 +1,9 @@
-# 内容：ddnsto
-# 数量：4条
+# 内容：ddnsto,wogg
+# 数量：7条
 DOMAIN-KEYWORD,ddnsto
+DOMAIN-KEYWORD,wogg
 DOMAIN-SUFFIX,ddnsto.com
 DOMAIN-SUFFIX,kooldns.cn
 DOMAIN-SUFFIX,tocmcc.cn
+DOMAIN-SUFFIX,wogg.xyz
+DOMAIN-SUFFIX,wogg.link
